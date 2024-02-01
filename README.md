@@ -4,7 +4,10 @@ If you are running the Project in Eclipse:
 
 Download/Clone the Capstone-Project folder.
 
-Now open your Eclipse IDE and import the Extracted HomeTask5 open TestCases.java file and select Runconfiguration(Junit) option.
+Now open your Eclipse IDE and import the Capstone-Project and run Main/Testcases.java file:
+
+a) Creating and Saving data in Station Wise and Energy Sourse related Log Files --> Angel Mary(7218965), Arjun Veeramony(7219119).
+b) Giving admin access(reading file data/deleting) to those files--> Farhaad Sheikh Mohammed(7219055), Swathi Chandrashekaraiah(7218877).
 
 By Arjun: testFindNearestStation testAssignEnergySourceInValidRange testAvailableSlotsisEqualtoTotalSlot testChargingStationCreation
 
