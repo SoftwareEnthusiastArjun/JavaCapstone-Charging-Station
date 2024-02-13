@@ -16,3 +16,5 @@ By Swathi: testEnergySourceGeneration testFileCreation
 By Angel: testCarCreation testAdminAuthorization
 
 By Farhaad: testThreadSynchronization testDirectoryCreation
+
+You can also find the PPT of our project named "Java Capstone Project.pdf" along with other attached files.
